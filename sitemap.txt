@@ -1,2 +1,2 @@
-http://example.com/2022/06/26/hello-world/
-http://example.com/
+https://axiandaytoy.cn/posts/undefined/
+https://axiandaytoy.cn/
