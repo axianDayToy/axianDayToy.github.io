@@ -5694,3 +5694,202 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
+#web_bg{
+	/*紫粉渐变*/
+	/*background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);*/
+	/*粉白蓝*/
+	/* background-image: linear-gradient(-225deg, #dfbacd 0%, #B8DCFF 48%, #58abf3 100%); */
+	/* background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%); */
+	background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+/* 页脚footer */
+#footer {
+	/* 与背景渐变效果一致*/
+	background-image: linear-gradient(to right, #bf30ac 0%, #0f9d58 100%);
+	opacity: 0.9;
+}
+
+#footer:before {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+/* valine 评论 */
+#veditor {
+	background-image: url(https://ax-images.oss-cn-beijing.aliyuncs.com/images/20220528110727.webp);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: right;
+	background-color: rgba(255, 255, 255, 0);
+	resize: vertical
+}
+#veditor:focus{
+	background-position-y: 200px;
+	transition: all 0.2s ease-in-out 0s;
+}
+.v .vwrap  .vheader{
+	display:flex;
+}
+.v .vwrap  .vheader .vinput{
+	border: 2px solid #dedede !important;
+}
+.v .vwrap  .vheader .vnick {
+	width: 31% !important;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px
+}
+
+.v .vwrap  .vheader .vmail {
+	width: 31% !important;
+	margin-left: 34px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px
+}
+
+.v .vwrap  .vheader .vlink {
+	width: 31% !important;
+	margin-left: 34px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px
+}
+.v .vcards .vcard {
+padding: 15px 20px 0 20px !important;
+border-radius: 10px;
+margin-bottom: 15px;
+box-shadow: 0 0 4px 1px rgba(0, 0, 0, .12);
+transition: all .3s
+}
+
+.v .vcards .vcard:hover {
+	box-shadow: 0 0 8px 3px rgba(0, 0, 0, .12) !important#5992ae
+}
+
+.v .vcards .vcard .vh .vcard {
+border: none !important;
+box-shadow: none;
+}
+.fa-qq {
+	color: #10a4ff;
+}
+.fa-weixin {
+	color: #00bf03;
+}
+.fa-envelope {
+	color: #ee8c6b;
+}
+.fa-github{
+	color:#5992ae
+}
+#aside-content .aside-list > .aside-list-item .thumbnail > img {
+border-radius:10px;
+}
+#page .page-title{
+text-align:center;
+}
+#article-container .flink .info img {
+margin-right: 10px !important;
+}
+#article-container a:hover{
+	text-decoration:none !important;
+}
+#article-container h1{
+display:none !important;
+}
+
+/* 字体 */
+body{
+font-family: 'ZhuZiAWan', sans-serif !important;
+}
+/* valine 评论 */
+
+/* 去除了dark模式下头像border和padding */
+[data-theme='dark'] .v[data-class=v] .vcards .vcard .vimg {
+padding: 0;
+border: none;
+}
+
+[data-theme='dark'] #post .v[data-class=v] .vcontent img {
+display: inline-block;
+}
+
+.v[data-class=v] .emoji,
+.v[data-class=v] .vemoji {
+vertical-align: text-bottom;
+}
+
+.v[data-class=v] .vwrap .vemojis {
+max-height: 260px !important;
+}
+
+.v[data-class=v] .vwrap .vemojis i[title|=menhera] {
+width: 22% !important;
+margin: 5px 10px;
+}
+
+.v[data-class=v] .vwrap .vemojis img[alt|=menhera] {
+max-width: 100% !important;
+}
+
+.v[data-class=v] .vcontent .emoji[alt|=menhera],
+.v[data-class=v] .vcontent .vemoji[alt|=menhera] {
+max-width: 300px !important;
+/* vertical-align: middle; */
+margin: 8px 1px;
+display: block !important;
+}
+
+@media screen and (max-width: 1200px) {
+.v[data-class=v] .vwrap .vemojis i[title|=menhera] {
+		margin: 5px 8px;
+}
+}
+
+@media screen and (max-width: 768px) {
+.v[data-class=v] .vcontent .emoji[alt|=menhera],
+.v[data-class=v] .vcontent .vemoji[alt|=menhera] {
+		max-width: calc(100% - 30px) !important;
+}
+}
+
+@media screen and (max-width: 576px) {
+.v[data-class=v] .vwrap .vemojis {
+		max-height: 200px !important;
+}
+.v[data-class=v] .vwrap .vemojis i[title|=menhera] {
+		margin: 5px 5px;
+}
+}
+
+@media screen and (max-width: 400px) {
+	.v[data-class=v] .vwrap .vemojis i[title|=menhera] {
+		width: 21% !important;
+	}
+}
+.link-box{
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+	margin-top: 2rem;
+}
+#article-container ul {
+	font-size: 17px;
+	background:#fff;
+}
+#article-container .tabs>.nav-tabs>.tab.active button {
+	border-top: 2px solid #ff8080;
+}
+#article-container.post-content li::marker{
+	color: #ff8080;
+	font-weight: 600;
+	font-size: 1.1em;
+}
+@font-face{
+  font-family:'ZhuZiAWan' ;  /* 字体名自定义即可 */
+  src:url('/fonts/ZhuZiAWan.woff2'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css';
