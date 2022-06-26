@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://axiandaytoy.cn/posts/c144adc/</loc>
+    
+    <lastmod>2022-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://axiandaytoy.cn/gallery/love/index.html</loc>
     
     <lastmod>2022-06-26</lastmod>
@@ -86,6 +95,24 @@
     <loc>https://axiandaytoy.cn/posts/1eb9527c/</loc>
     
     <lastmod>2022-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://axiandaytoy.cn/movies/index.html</loc>
+    
+    <lastmod>2022-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://axiandaytoy.cn/books/index.html</loc>
+    
+    <lastmod>2022-06-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
