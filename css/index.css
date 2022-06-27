@@ -9297,6 +9297,31 @@ display: block !important;
 	font-weight: 600;
 	font-size: 1.1em;
 }
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 2em;
+    /* background-color: rgba(73, 177, 245, .2); */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(255 255 255 / .3);
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);
+    border-radius: 2em
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent
+}
+
+
+作者: Ethan.Tzy
+链接: https://tzy1997.com/articles/hexo1606/
+来源: 唐志远の博客
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 @font-face{
   font-family:'ZhuZiAWan' ;  /* 字体名自定义即可 */
   src:url('/fonts/ZhuZiAWan.woff2'); /* 字体文件路径 */
