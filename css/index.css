@@ -9316,12 +9316,6 @@ display: block !important;
 ::-webkit-scrollbar-corner {
     background-color: transparent
 }
-
-
-作者: Ethan.Tzy
-链接: https://tzy1997.com/articles/hexo1606/
-来源: 唐志远の博客
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 @font-face{
   font-family:'ZhuZiAWan' ;  /* 字体名自定义即可 */
   src:url('/fonts/ZhuZiAWan.woff2'); /* 字体文件路径 */
