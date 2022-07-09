@@ -173,6 +173,13 @@
 
   
   <url>
+    <loc>https://axiandaytoy.cn/tags/JS/</loc>
+    <lastmod>2022-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://axiandaytoy.cn/tags/Butterfly%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,7 +194,7 @@
   </url>
   
   <url>
-    <loc>https://axiandaytoy.cn/tags/JS/</loc>
+    <loc>https://axiandaytoy.cn/tags/Hexo/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -207,14 +214,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://axiandaytoy.cn/tags/Hexo/</loc>
+    <loc>https://axiandaytoy.cn/categories/JS/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>https://axiandaytoy.cn/categories/Butterfly%E4%B8%BB%E9%A2%98/</loc>
@@ -231,7 +238,7 @@
   </url>
   
   <url>
-    <loc>https://axiandaytoy.cn/categories/JS/</loc>
+    <loc>https://axiandaytoy.cn/categories/Hexo/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -246,13 +253,6 @@
   
   <url>
     <loc>https://axiandaytoy.cn/categories/Node/</loc>
-    <lastmod>2022-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://axiandaytoy.cn/categories/Hexo/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
