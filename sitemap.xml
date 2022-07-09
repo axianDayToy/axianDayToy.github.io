@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://axiandaytoy.cn/posts/1eb9527c/</loc>
+    
+    <lastmod>2022-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://axiandaytoy.cn/posts/77e3f859/</loc>
+    
+    <lastmod>2022-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://axiandaytoy.cn/link/index.html</loc>
     
     <lastmod>2022-07-09</lastmod>
@@ -65,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://axiandaytoy.cn/posts/77e3f859/</loc>
-    
-    <lastmod>2022-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://axiandaytoy.cn/posts/2992cc67/</loc>
     
     <lastmod>2022-06-26</lastmod>
@@ -104,15 +113,6 @@
     <loc>https://axiandaytoy.cn/tags/index.html</loc>
     
     <lastmod>2022-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://axiandaytoy.cn/posts/1eb9527c/</loc>
-    
-    <lastmod>2022-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -173,13 +173,6 @@
 
   
   <url>
-    <loc>https://axiandaytoy.cn/tags/Butterfly%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2022-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://axiandaytoy.cn/tags/JS/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,14 +180,14 @@
   </url>
   
   <url>
-    <loc>https://axiandaytoy.cn/tags/React/</loc>
+    <loc>https://axiandaytoy.cn/tags/Butterfly%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://axiandaytoy.cn/tags/Vue/</loc>
+    <loc>https://axiandaytoy.cn/tags/React/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -214,14 +207,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://axiandaytoy.cn/categories/Butterfly%E4%B8%BB%E9%A2%98/</loc>
+    <loc>https://axiandaytoy.cn/tags/Vue/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>https://axiandaytoy.cn/categories/JS/</loc>
@@ -231,14 +224,14 @@
   </url>
   
   <url>
-    <loc>https://axiandaytoy.cn/categories/React/</loc>
+    <loc>https://axiandaytoy.cn/categories/Butterfly%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://axiandaytoy.cn/categories/Vue/</loc>
+    <loc>https://axiandaytoy.cn/categories/React/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -253,6 +246,13 @@
   
   <url>
     <loc>https://axiandaytoy.cn/categories/Node/</loc>
+    <lastmod>2022-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://axiandaytoy.cn/categories/Vue/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
