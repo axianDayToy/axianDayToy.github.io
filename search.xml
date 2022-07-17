@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>关于深浅拷贝的那些事</title>
-    <url>/posts/undefined/</url>
+    <url>/posts/59d18d96/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
 <p>所谓深浅拷贝，其实都是进行复制，主要区别在于复制出来的新对象和原来的对象时候会相互影响。<br>深浅拷贝的区分：B 复制 A，如何A 发生变化 B跟着变化 浅拷贝<br>反之， 如果 B 不发生变化 则为深拷贝。<br>浅拷贝 A B 指向同一个地址 所以 A受影响 B也会受影响</p>
 </blockquote>
@@ -55,7 +55,7 @@
 <p><img src="https://ax-images.oss-cn-beijing.aliyuncs.com/images/202207172014798.webp" alt="11"></p>
 <figure class="highlight js"><table><tr><td class="code"><pre><span class="line">a.<span class="property">age</span> = <span class="number">30</span>;</span><br></pre></td></tr></table></figure>
 
-<p><img src="/Users/yhji/Desktop/11.webp" alt="11"><img src="https://ax-images.oss-cn-beijing.aliyuncs.com/images/202207172015470.webp" alt="12"> </p>
+<p><img src="https://ax-images.oss-cn-beijing.aliyuncs.com/images/202207172015470.webp" alt="12"> </p>
 <blockquote>
 <p>看完上面之后，是不是就明白了。所谓深浅拷贝：<br>对于仅仅是复制了引用（地址）,换言之，原来的变量和新的变量指向了同一个东西，彼此之间的操作会互相影响，为<code>浅拷贝</code>。<br>反言之。如果是在堆中重新分配内存，拥有不同的地址，但是值是一样的，复制后的对象与原来的对象是完全隔离，互不影响的，为 <code>深拷贝</code></p>
 </blockquote>
@@ -93,12 +93,6 @@
 
 <p><img src="https://ax-images.oss-cn-beijing.aliyuncs.com/images/202207172037787.webp" alt="18"></p>
 ]]></content>
-      <categories>
-        <category>JS</category>
-      </categories>
-      <tags>
-        <tag>JS</tag>
-      </tags>
   </entry>
   <entry>
     <title>vue使用ElementUI table实现展开行功能</title>
