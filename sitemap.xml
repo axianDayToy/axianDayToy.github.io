@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://axiandaytoy.cn/posts/2805be1f/</loc>
+    
+    <lastmod>2022-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://axiandaytoy.cn/posts/59d18d96/</loc>
     
     <lastmod>2022-07-17</lastmod>
@@ -175,7 +184,7 @@
 
   <url>
     <loc>https://axiandaytoy.cn/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,42 +192,42 @@
   
   <url>
     <loc>https://axiandaytoy.cn/tags/Butterfly%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/tags/JS/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/tags/React/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/tags/Hexo/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/tags/Vue/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/tags/Node/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -227,42 +236,42 @@
   
   <url>
     <loc>https://axiandaytoy.cn/categories/Butterfly%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/categories/JS/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/categories/React/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/categories/Hexo/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/categories/Vue/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://axiandaytoy.cn/categories/Node/</loc>
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
